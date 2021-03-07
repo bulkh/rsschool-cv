@@ -7,7 +7,13 @@ Khusnulgatin Bulat
 ### About me:
 I'm just starting my way in Front-End developing and I would like learn more and more about this direction. My goal is to become a Middle Front-End Developer until the end of 2021.
 ### My skills:
-Basics in Python, C++, C#, JS, HTML and CSS.
+Basics in:
+- Python
+- C++
+- C#
+- JS
+- HTML
+- CSS
 ### Code example:
 Function, that tells you the is word palindrome or not:
 ```sh
